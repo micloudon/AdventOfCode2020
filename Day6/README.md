@@ -12,21 +12,21 @@ In this group, there are 6 questions to which anyone answered "yes": a, b, c, x,
 
 Another group asks for your help, then another, and eventually you've collected answers from every group on the plane (your puzzle input). Each group's answers are separated by a blank line, and within each group, each person's answers are on a single line. For example:
 
-abc
+abc  
 
-a
-b
-c
+a  
+b  
+c  
 
-ab
-ac
+ab  
+ac  
 
-a
-a
-a
-a
+a  
+a  
+a  
+a  
 
-b
+b  
 This list represents answers from five groups:
 
 The first group contains one person who answered "yes" to 3 questions: a, b, and c.
@@ -45,21 +45,21 @@ You don't need to identify the questions to which anyone answered "yes"; you nee
 
 Using the same example as above:
 
-abc
+abc  
 
-a
-b
-c
+a  
+b  
+c  
 
-ab
-ac
+ab  
+ac  
 
-a
-a
-a
-a
+a  
+a  
+a  
+a  
 
-b
+b  
 This list represents answers from five groups:
 
 In the first group, everyone (all 1 person) answered "yes" to 3 questions: a, b, and c.
